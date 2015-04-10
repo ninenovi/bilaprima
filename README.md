@@ -1,0 +1,2 @@
+# bilaprima
+jurnal bilangan prima
